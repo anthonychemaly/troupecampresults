@@ -14,7 +14,7 @@ body {
 }
 
 .jesus {
-    
+    margin:0;
     max-width: 100%;
     
 }
@@ -22,18 +22,18 @@ body {
 
 
 .pst{
-    background-color: #ffcce0 !important;
+    margin:0;
+    width:100%;
 }
 
 .hello{
-    margin-top: 5%;
     text-align:center;
- font-size: 300%; 
+ font-size: 250%; 
     font-weight: bolder;
     font-family: 'Poppins', sans-serif;
     color:white;
     white-space: nowrap;
-    margin-bottom: 5%;
+    
     margin-top:5%;
    
 }
