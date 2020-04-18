@@ -1,0 +1,38 @@
+
+.image{
+    max-height: 10%;
+    max-width: 25%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+body {
+   
+    background-color: #ffcce0 !important;
+}
+
+.jesus {
+    
+    max-width: 100%;
+    
+}
+
+
+
+.pst{
+    background-color: #ffcce0 !important;
+}
+
+.hello{
+    margin-top: 5%;
+    text-align:center;
+ font-size: 300%; 
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    color:#ff0066;
+    white-space: nowrap;
+    margin-bottom: 5%;
+   
+}
