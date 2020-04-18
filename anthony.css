@@ -10,7 +10,7 @@
 
 body {
    
-    background-color: #ffcce0 !important;
+    background-color: #205d9d !important;
 }
 
 .jesus {
@@ -31,8 +31,9 @@ body {
  font-size: 300%; 
     font-weight: bolder;
     font-family: 'Poppins', sans-serif;
-    color:#ff0066;
+    color:white;
     white-space: nowrap;
     margin-bottom: 5%;
+    margin-top:5%;
    
 }
