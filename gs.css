@@ -1,0 +1,6 @@
+.table-responsive .table {
+    max-width: none;
+    max-height:none;
+    -webkit-overflow-scrolling: touch;
+   
+}
